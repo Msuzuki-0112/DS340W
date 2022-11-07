@@ -1,0 +1,2 @@
+The demo.py is our code, we use LSTM to reconstruct 3D object.
+The image data in folder(imgs)
